@@ -25,3 +25,10 @@ checkout-plugins-stripe-woo
 funnelkit-stripe-woo-payment-gateway
  -- 
 ```
+
+# Removing pp_partner ID
+Someone created bad-matt.php
+
+https://gist.github.com/gschoppe/7e56a4d23e14cee10e9991de3465cf42?fbclid=IwY2xjawFnydVleHRuA2FlbQIxMAABHdDbKIV_Rd3Je-GXTz3YcIs_tmKnfDsg-KbySCtuKGTp-CHb47PTEcvOVA_aem_zewRQwmvGHlK5IcYNnNjyg
+
+Also mirrored here as bad-matt.php
